@@ -1,0 +1,36 @@
+body{
+    background-color: grey;
+}
+
+h1{
+  text-align: center;
+  background-color: rgba(99, 99, 96, 0.822)
+
+}
+
+P{
+    text-align: justify;
+    display: inline-block;
+}
+
+div{
+    background-color: rgba(99, 99, 96, 0.822);
+}
+
+img{
+  width: 1000px;
+  height: 500px;
+  display: inline-block;
+  float: left;
+}
+
+.ao_lado{
+  display: inline-block;
+  float: right;
+  width: 885px;
+  height: 490px;
+}
+ p{
+   font-size: 25px;
+
+ }
